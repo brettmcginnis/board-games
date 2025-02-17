@@ -2,4 +2,7 @@ site_name: Better Board Games
 nav:
   - Home: index.md
 
-theme: darkly
+theme:
+  name: darkly
+  analytics:
+    gtag: G-53B52F8H35
